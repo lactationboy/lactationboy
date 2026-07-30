@@ -41,6 +41,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=5000&color=850000&center=true&vCenter=true&width=435&lines=%E2%82%98%E2%82%97%E2%82%9A" alt="Typing SVG" />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=5000&color=850000&center=true&vCenter=true&width=435&lines=%E2%82%9B%E2%82%92%E1%B5%A4%E2%82%9C%E2%82%95+%E2%82%9A%E2%82%90%E1%B5%A3%E2%82%96" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <b><span style="color:#8B0000">[im heavily into d communities of d fandoms i listed abov,, d rest of my interests r jus videogames i pley or shows i watch]</span></b>
