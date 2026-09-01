@@ -20,33 +20,11 @@
 </p>
 
 <p align="right">
-  <img src="https://i.ibb.co/6R4SyPWN/e92b485b-5308-449e-b8b8-e64ec5311e25-removalai-preview.png" width="200" />
+  <img src="https://i.ibb.co/Dfs2cNYV/ezgif-53108e294af8154c.gif" width="200" />
 </p>
 
-<p align="center">
-  <img src="https://i.ibb.co/v4NSDPRM/Interests-7-18-2026.png" width="50%" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=5000&color=850000&center=true&vCenter=true&width=435&lines=%E2%82%9B%E2%82%92%E2%82%99%E1%B5%A2%F0%9D%93%AC" alt="Typing SVG" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=5000&color=850000&center=true&vCenter=true&width=435&lines=%E1%B4%85%F0%9D%91%A4" alt="Typing SVG" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=5000&color=850000&center=true&vCenter=true&width=435&lines=%E1%B4%85%E2%82%91%E2%82%97%E2%82%9C%E2%82%90%E1%B5%A3%E1%B5%A4%E2%82%99%E2%82%91" alt="Typing SVG" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=5000&color=850000&center=true&vCenter=true&width=435&lines=%CA%97%E1%B5%A3%E2%82%91%E2%82%91%E2%82%9A%E1%B5%A7%E2%82%9A%E2%82%90%E2%82%9B%E2%82%9C%E2%82%90" alt="Typing SVG" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=5000&color=850000&center=true&vCenter=true&width=435&lines=%E2%82%98%E2%82%97%E2%82%9A" alt="Typing SVG" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=5000&color=850000&center=true&vCenter=true&width=435&lines=%E2%82%9B%E2%82%92%E1%B5%A4%E2%82%9C%E2%82%95+%E2%82%9A%E2%82%90%E1%B5%A3%E2%82%96" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <b><span style="color:#8B0000">[im heavily into d communities of d fandoms i listed abov,, d rest of my interests r jus videogames i pley or shows i watch]</span></b>
+<p align="right">
+  <img src="https://i.ibb.co/PG6TBxXW/image.png" width="200" />
 </p>
 
 #
