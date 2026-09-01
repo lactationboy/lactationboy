@@ -19,11 +19,11 @@
   <i>⟡. ݁₊ ‿‿ •. ‿‿‿‿⸝⸝⟡. ݁₊ ‿‿ •. ‿‿‿‿⸝⸝⟡</i>
 </p>
 
-<p align="right">
-  <img src="https://i.ibb.co/Dfs2cNYV/ezgif-53108e294af8154c.gif" width="200" />
+<p align="center">
+  <img src="https://i.ibb.co/Dfs2cNYV/ezgif-53108e294af8154c.gif" width="500" />
 </p>
 
-<p align="right">
+<p align="center">
   <img src="https://i.ibb.co/PG6TBxXW/image.png" width="200" />
 </p>
 
