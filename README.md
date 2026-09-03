@@ -4,7 +4,7 @@
   <img src="https://i.ibb.co/394q1z5g/tumblr-faf909aae15dcf7a7167792ecebe0d16-c5555578-2048.png" />
 </p>
   <p align=left><br>ㅤ𒅒𒈔𒅒𒇫𒄆𒅒𒈔𒅒𒇫𒄆
-<br>${\textsf{\color{#7D0013}𖠰°✘`𓁺}}$ ${\textsf{\color{#7D0013}⠀I go by Lact/Haz}}$ 
+<br>${\textsf{\color{#7D0013}𖠰°✘`𓁺⠀I go by Lact/Haz}}$ 
 
 <p align=right><br> ${\textsf{\color{#6B0011}⦻ »　he / him | trans man | ⚣  }}$ 　　
   <p align=left><br>ㅤ<br> ${\textsf{\color{#45000B}   ⠀ᝰ🚬⠀　　20 yro⠀---↟ }}$　
