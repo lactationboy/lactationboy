@@ -29,7 +29,7 @@
   <tr>
     <td>
       <a href="https://lactationboy.straw.page/">
-        <img align="LEFT" height="100" src="https://i.ibb.co/SXDs6GjK/f78e3bf098626974a87198a70238f858.jpg"/>
+        <img align="LEFT" height="100" src="https://i.ibb.co/NnLqz6qj/833d1c5d6920f9fa27dd14917ded4b38-Picsart-Background-Remover.png"/>
       </a>
       My <b>Strawpage!!!</b><br/><br/>
       click on da sprut ey
@@ -41,7 +41,7 @@
   <tr>
     <td>
       <a href="https://lactationboy.atabook.org/">
-        <img align="LEFT" height="100" src="https://i.ibb.co/60VQ9WRd/image.png"/>
+        <img align="LEFT" height="100" src="https://i.ibb.co/Cpx2x8jc/f0e079df34cb90dcc2d3df4a76d8d3ef.png"/>
       </a>
       My <b>Atabook!!!</b><br/><br/>
       click on da littl blot... 
